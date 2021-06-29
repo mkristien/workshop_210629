@@ -1,0 +1,14 @@
+Uloha 1
+
+Vytvor merge conflict pomocou lokalnych ulozisk.
+- naklonuj ulozisko_1, ulozisko_2
+- zmen subor v oboch uloziskach
+- push z uloziska_1
+- push z uloziska_2
+
+
+Uloha 2
+Vytvor subor "zeny_v_it.txt".
+
+Vyber si obdobie z https://en.wikipedia.org/wiki/Women_in_computing
+Skopiruj paragraf.
