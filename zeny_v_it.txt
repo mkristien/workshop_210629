@@ -1,0 +1,9 @@
+1700s
+Nicole-Reine Etable de la Brière Lepaute was one of a team of human computers
+who worked with Alexis-Claude Clairaut and Joseph-Jérôme Le Français de Lalande to predict the date of the return of Halley's Comet
+They began work on the calculations in 1757, working throughout the day and sometimes during mealtimes
+Their methods were followed by successive human computers.
+They divided large calculations into "independent pieces, assembled the results from each piece into 
+a final product" and then checked for errors.
+ Lepaute continued to work on computing for the rest of her life, 
+ working for the Connaissance des Temps and publishing predictions of solar eclipses.
