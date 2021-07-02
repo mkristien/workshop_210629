@@ -1,3 +1,13 @@
 https://github.com/mkristien/workshop_210629.git
 https://github.com/mkristien/workshop_210629
 http://git-school.github.io/visualizing-git/
+
+Prikazy
+git status
+git add
+git pull
+git push
+git merge
+git checkout -b <meno>      # vytvorenie novej vetvy
+git --help
+git help branch
